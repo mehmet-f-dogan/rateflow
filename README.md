@@ -4,13 +4,13 @@ A high-performance, thread-safe rate limiting library with multiple algorithms a
 
 ## Features
 
-- 🚀 **4 Algorithm Implementations**: Token Bucket, Leaky Bucket, Sliding Window, Fixed Window
-- 🔒 **Thread-Safe**: All operations are safe for concurrent use
-- 🔄 **Stdlib Compatible**: Drop-in replacement for `golang.org/x/time/rate`
-- 📦 **Zero Dependencies**: Only uses Go standard library
-- ✅ **100% Test Coverage**: Comprehensive tests including race conditions
-- ⚡ **Benchmarked**: Performance tested and optimized
-- 📚 **Well Documented**: Clear examples and API documentation
+- **4 Algorithm Implementations**: Token Bucket, Leaky Bucket, Sliding Window, Fixed Window
+- **Thread-Safe**: All operations are safe for concurrent use
+- **Stdlib Compatible**: Drop-in replacement for `golang.org/x/time/rate`
+- **Zero Dependencies**: Only uses Go standard library
+- **100% Test Coverage**: Comprehensive tests including race conditions
+- **Benchmarked**: Performance tested and optimized
+- **Well Documented**: Clear examples and API documentation
 
 ## Installation
 
